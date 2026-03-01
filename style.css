@@ -140,3 +140,17 @@ button:hover {
     background-position: 0% 50%;
   }
 }
+@media (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+
+  .gif-container {
+    width: 100%;
+  }
+
+  .page {
+    width: 100%;
+  }
+}
+
